@@ -57,7 +57,7 @@
     "socket.io": "^4.5.0",
     "socketio-jwt": "^4.6.2",
     "swagger-jsdoc": "^6.2.1",
-    "swagger-ui-express": "^4.3.0",
+    "swagger-ui-express": "^5.0.1",
     "systeminformation": "^5.11.14",
     "tar": "^6.1.11",
     "web-push": "^3.4.5"
